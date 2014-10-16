@@ -8,6 +8,18 @@
         revision="19.1.0"
         sha1="7800973ef52ae629978ad974370b6a0b9bc79e25"/>
     <item
+        dex="/Users/calebadams/Documents/TestCardboardWorld/WorldVR/MyWorldVR/build/intermediates/pre-dexed/debug/classes-58584bca22530c56b7d41b1a847e74c81b20145c.jar"
+        jar="/Users/calebadams/Documents/TestCardboardWorld/WorldVR/MyWorldVR/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="8694693636ab36910c8100ce527c258ff3ebece0"/>
+    <item
+        dex="/Users/calebadams/Documents/TestCardboardWorld/WorldVR/MyWorldVR/build/intermediates/pre-dexed/debug/cardboard-96b02ac49c66785707419638dfca83a041163bc8.jar"
+        jar="/Users/calebadams/Documents/TestCardboardWorld/WorldVR/MyWorldVR/libs/cardboard.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="7800973ef52ae629978ad974370b6a0b9bc79e25"/>
+    <item
         dex="/Users/calebadams/Documents/android studio projects/WorldVR/MyWorldVR/build/intermediates/pre-dexed/debug/support-annotations-20.0.0-bca9cd8c8082330ef7549e0398af852faae531fd.jar"
         jar="/Applications/Android Studio.app/sdk/extras/android/m2repository/com/android/support/support-annotations/20.0.0/support-annotations-20.0.0.jar"
         jumboMode="false"
@@ -22,6 +34,18 @@
     <item
         dex="/Users/calebadams/Documents/android studio projects/WorldVR/MyWorldVR/build/intermediates/pre-dexed/debug/internal_impl-20.0.0-b87c182b98dab98e006c8792fdc9c8178bbd8afc.jar"
         jar="/Users/calebadams/Documents/android studio projects/WorldVR/MyWorldVR/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/libs/internal_impl-20.0.0.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d"/>
+    <item
+        dex="/Users/calebadams/Documents/TestCardboardWorld/WorldVR/MyWorldVR/build/intermediates/pre-dexed/debug/rajawali_master-2c02ccfe0d99a657ea1f5c3022b67d9336caa3c3.jar"
+        jar="/Users/calebadams/Documents/TestCardboardWorld/WorldVR/MyWorldVR/libs/rajawali_master.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="dc4c85c1d6196023f4d97c1c17f3e63ff986fe83"/>
+    <item
+        dex="/Users/calebadams/Documents/TestCardboardWorld/WorldVR/MyWorldVR/build/intermediates/pre-dexed/debug/internal_impl-20.0.0-841ca9bdaa2da3220fc8d045c708e1295f2ce40b.jar"
+        jar="/Users/calebadams/Documents/TestCardboardWorld/WorldVR/MyWorldVR/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/libs/internal_impl-20.0.0.jar"
         jumboMode="false"
         revision="19.1.0"
         sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d"/>
